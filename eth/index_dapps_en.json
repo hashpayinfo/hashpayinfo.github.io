@@ -4,16 +4,8 @@
     "data": {
         "banners": [
             {
-                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner1-en.png",
+                "image": "https://static.w3wallet.link/dappbaner/en.png",
                 "url": "1"
-            },
-            {
-                "image": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/banner/banner2-en.png",
-                "url": "2"
-            },
-            {
-                "image": "http://hashpay.gitee.io/hashpay/imgs/dapp/banner/en_03.jpg",
-                "url": "3"
             }
         ],
         "dapps": [
