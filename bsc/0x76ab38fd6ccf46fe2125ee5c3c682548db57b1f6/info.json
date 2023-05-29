@@ -1,0 +1,11 @@
+{
+ "name": "PET",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x76ab38fd6ccf46fe2125ee5c3c682548db57b1f6",
+ "type": "BEP20",
+ "symbol": "PET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x76ab38fd6ccf46fe2125ee5c3c682548db57b1f6"
+}

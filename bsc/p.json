@@ -605,6 +605,16 @@
 		"symbol": "PIZA"
 	},
 	{
+		"dirname": "0x76ab38fd6ccf46fe2125ee5c3c682548db57b1f6",
+		"address": "0x76ab38fd6ccf46fe2125ee5c3c682548db57b1f6",
+		"symbol": "PET"
+	},
+	{
+		"dirname": "0x3b5e381130673f794a5cf67fbba48688386bea86",
+		"address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
+		"symbol": "POT"
+	},
+	{
 		"dirname": "0xFdC35F283961cA8c5c62Cf7e4EA74A76F4509D63",
 		"address": "0xFdC35F283961cA8c5c62Cf7e4EA74A76F4509D63",
 		"symbol": "PH"
