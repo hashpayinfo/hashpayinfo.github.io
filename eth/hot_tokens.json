@@ -64,7 +64,7 @@
               "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
               "decimals": 18,
               "symbol": "MKR",
-              "logoURI": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+              "logoURI": "https://hashpayinfo.github.io/eth/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/logo.png"
           }
           ]
 }

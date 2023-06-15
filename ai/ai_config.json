@@ -1,0 +1,24 @@
+[
+{
+"isFree":false,
+"paySate":true,
+"freeCount":100,
+"price":[
+	{
+		"id": 1,
+		"day": "10000",
+		"usdt": "280"
+	},
+	{
+		"id": 2,
+		"day": "30",
+		"usdt": "60"
+	},
+	{
+		"id": 3,
+		"day": "366",
+		"usdt": "8"
+	}
+        ]
+}
+]
