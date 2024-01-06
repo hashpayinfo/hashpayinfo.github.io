@@ -233,5 +233,125 @@
 		"dirname": "0xFF3A2B22021F6ba30D56bF5d72Ff6f9009F0D1EE",
 		"address": "0xFF3A2B22021F6ba30D56bF5d72Ff6f9009F0D1EE",
 		"symbol": "OA"
+	},
+	{
+		"dirname": "0x05800C8635C53dCe61358BDF6C55eEC7ACE072ad",
+		"address": "0x05800C8635C53dCe61358BDF6C55eEC7ACE072ad",
+		"symbol": "ORDI2"
+	},
+	{
+		"dirname": "0x131bCFF9B338e2AB091b59De575BAab7071cac8E",
+		"address": "0x131bCFF9B338e2AB091b59De575BAab7071cac8E",
+		"symbol": "OSK"
+	},
+	{
+		"dirname": "0x149CA18e98D25feAC6ABeF1Ea1F15d45Ad76d7CA",
+		"address": "0x149CA18e98D25feAC6ABeF1Ea1F15d45Ad76d7CA",
+		"symbol": "ONK"
+	},
+	{
+		"dirname": "0x165E46A7222A90F1a64aAcdfAD157Fa705bdf015",
+		"address": "0x165E46A7222A90F1a64aAcdfAD157Fa705bdf015",
+		"symbol": "ONE"
+	},
+	{
+		"dirname": "0x1e16d4579d6a1471745a20ec491739e201971151",
+		"address": "0x1E16D4579D6a1471745a20eC491739e201971151",
+		"symbol": "OZA"
+	},
+	{
+		"dirname": "0x29F6b1b7f024752fAe51A83c0515fE469508084F",
+		"address": "0x29F6b1b7f024752fAe51A83c0515fE469508084F",
+		"symbol": "OXO"
+	},
+	{
+		"dirname": "0x376539627a27d2EdA13E8CECD478bbdd7de77996",
+		"address": "0x376539627a27d2EdA13E8CECD478bbdd7de77996",
+		"symbol": "OXC"
+	},
+	{
+		"dirname": "0x4E7a14cA1051Ae075C97d62bC90028dfaa2eeE2f",
+		"address": "0x4E7a14cA1051Ae075C97d62bC90028dfaa2eeE2f",
+		"symbol": "OCA"
+	},
+	{
+		"dirname": "0x6528188E586Bb91e0eBcf262a52588A4A1ACCc90",
+		"address": "0x6528188E586Bb91e0eBcf262a52588A4A1ACCc90",
+		"symbol": "OIS"
+	},
+	{
+		"dirname": "0x6E6Eb51040Ae0E399C57d2807513ea63d52bfd32",
+		"address": "0x6E6Eb51040Ae0E399C57d2807513ea63d52bfd32",
+		"symbol": "ONE"
+	},
+	{
+		"dirname": "0x70b8ce59baE2FdB419C9489813ee51D14028b8d9",
+		"address": "0x70b8ce59baE2FdB419C9489813ee51D14028b8d9",
+		"symbol": "OR"
+	},
+	{
+		"dirname": "0x723caE313F6E40f0D502A7e41d3dDaa9D4C18dDb",
+		"address": "0x723caE313F6E40f0D502A7e41d3dDaa9D4C18dDb",
+		"symbol": "OSL"
+	},
+	{
+		"dirname": "0x81F52Dd5FCe4D1f24e5aa839Df782244BE867B14",
+		"address": "0x81F52Dd5FCe4D1f24e5aa839Df782244BE867B14",
+		"symbol": "ORC"
+	},
+	{
+		"dirname": "0x82Fe6F8884599670FF98483Bd9599457C224d555",
+		"address": "0x82Fe6F8884599670FF98483Bd9599457C224d555",
+		"symbol": "OZON"
+	},
+	{
+		"dirname": "0x834a29E8E250C18b4339Ad06b22341ea0bEe8B3e",
+		"address": "0x834a29E8E250C18b4339Ad06b22341ea0bEe8B3e",
+		"symbol": "OASI"
+	},
+	{
+		"dirname": "0x8ce12f697088746a260ec8990dbde7a40a0a9b7c",
+		"address": "0x8ce12f697088746a260ec8990dbde7a40a0a9b7c",
+		"symbol": "OMNI"
+	},
+	{
+		"dirname": "0x8e882064fb1785d59E55fed5d30Bd0a7f1Bc208D",
+		"address": "0x8e882064fb1785d59E55fed5d30Bd0a7f1Bc208D",
+		"symbol": "OPENAI"
+	},
+	{
+		"dirname": "0x947E06B3F0B5cF9834e7E03AbE15331Bccc31352",
+		"address": "0x947E06B3F0B5cF9834e7E03AbE15331Bccc31352",
+		"symbol": "ONT"
+	},
+	{
+		"dirname": "0xD9976A13bea3E5AbBb16839E5ca49a852515C970",
+		"address": "0xD9976A13bea3E5AbBb16839E5ca49a852515C970",
+		"symbol": "OGT"
+	},
+	{
+		"dirname": "0xDD3162aD2185928bf3D92Bc05174Aa442E7382Ef",
+		"address": "0xDD3162aD2185928bf3D92Bc05174Aa442E7382Ef",
+		"symbol": "OPC"
+	},
+	{
+		"dirname": "0xDfB5a2C954023a13764F0865Bb50d0eA6D0A411e",
+		"address": "0xDfB5a2C954023a13764F0865Bb50d0eA6D0A411e",
+		"symbol": "ORC"
+	},
+	{
+		"dirname": "0xbCbd242b375B5cfb7678754C70547DA41bcE87d9",
+		"address": "0xbCbd242b375B5cfb7678754C70547DA41bcE87d9",
+		"symbol": "OSL"
+	},
+	{
+		"dirname": "0xe5a36d21ef7b37c4d9078a7cb5526be519824ab6",
+		"address": "0xe5a36d21ef7b37c4d9078a7cb5526be519824ab6",
+		"symbol": "ODD"
+	},
+	{
+		"dirname": "0xf476f879558e6128FA7B3C80e901bfDFfc9F591f",
+		"address": "0xf476f879558e6128FA7B3C80e901bfDFfc9F591f",
+		"symbol": "OR"
 	}
 ]

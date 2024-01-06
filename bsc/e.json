@@ -278,5 +278,170 @@
 		"dirname": "0xFcbb1FEa3CC3566e55891fCfC2d3B4D6cfdf112f",
 		"address": "0xFcbb1FEa3CC3566e55891fCfC2d3B4D6cfdf112f",
 		"symbol": "ETHmining"
+	},
+	{
+		"dirname": "0x13A26B8142f82DBd37404d54d0b3fe1603e296Fa",
+		"address": "0x13A26B8142f82DBd37404d54d0b3fe1603e296Fa",
+		"symbol": "ELC"
+	},
+	{
+		"dirname": "0x13b80d52abf247284b0a0cb1f7cd5f8997de9b21",
+		"address": "0x13b80d52abf247284b0a0cb1f7cd5f8997de9b21",
+		"symbol": "ENC"
+	},
+	{
+		"dirname": "0x218fb8B3ccCcbFF5a7a22B170f6CC143E54adE87",
+		"address": "0x218fb8B3ccCcbFF5a7a22B170f6CC143E54adE87",
+		"symbol": "EH"
+	},
+	{
+		"dirname": "0x22714c3532b4D52256f3c683e34170266b888D55",
+		"address": "0x22714c3532b4D52256f3c683e34170266b888D55",
+		"symbol": "ETRL"
+	},
+	{
+		"dirname": "0x2687A3b55684EdAf425d70401516F9794FA60059",
+		"address": "0x2687A3b55684EdAf425d70401516F9794FA60059",
+		"symbol": "ETHK"
+	},
+	{
+		"dirname": "0x317C8971D88E749504Cef345FBC69c65258501Db",
+		"address": "0x317C8971D88E749504Cef345FBC69c65258501Db",
+		"symbol": "ETL"
+	},
+	{
+		"dirname": "0x3607C4AA409170A41b2DAA6bB5F0B0e19289bA9f",
+		"address": "0x3607C4AA409170A41b2DAA6bB5F0B0e19289bA9f",
+		"symbol": "E2X"
+	},
+	{
+		"dirname": "0x3F2Fc017Bde3dFAD9f6789a92c470c6134493598",
+		"address": "0x3F2Fc017Bde3dFAD9f6789a92c470c6134493598",
+		"symbol": "ELE"
+	},
+	{
+		"dirname": "0x43A45D34912b25c542329915cB46db4cFA281DD9",
+		"address": "0x43A45D34912b25c542329915cB46db4cFA281DD9",
+		"symbol": "ELFU"
+	},
+	{
+		"dirname": "0x4ba7D3F643F7365aC6BBA9C172640c381C5bF171",
+		"address": "0x4ba7D3F643F7365aC6BBA9C172640c381C5bF171",
+		"symbol": "ETHG"
+	},
+	{
+		"dirname": "0x5531e82ec436d62392e2fa0e1ee5d9dee55ab28f",
+		"address": "0x5531e82ec436d62392e2fa0e1ee5d9dee55ab28f",
+		"symbol": "EABOX"
+	},
+	{
+		"dirname": "0x56D594D76b37BE83C54aBF8a4747D60CE58D32C2",
+		"address": "0x56D594D76b37BE83C54aBF8a4747D60CE58D32C2",
+		"symbol": "ELF"
+	},
+	{
+		"dirname": "0x5E30247A7F7b55f62e2843ACf0d627540EaC19B8",
+		"address": "0x5E30247A7F7b55f62e2843ACf0d627540EaC19B8",
+		"symbol": "ETP"
+	},
+	{
+		"dirname": "0x735A9483f2393CEf8c49DE80395195CA73b1446F",
+		"address": "0x735A9483f2393CEf8c49DE80395195CA73b1446F",
+		"symbol": "EPS"
+	},
+	{
+		"dirname": "0x74b1Ca751067F3cd13Fdf18c11EC3f502ad747A6",
+		"address": "0x74b1Ca751067F3cd13Fdf18c11EC3f502ad747A6",
+		"symbol": "ETNEX"
+	},
+	{
+		"dirname": "0x7aA4B6937DE7118bf4C8e56F9df3a99ceFB64C1a",
+		"address": "0x7aA4B6937DE7118bf4C8e56F9df3a99ceFB64C1a",
+		"symbol": "e-STD"
+	},
+	{
+		"dirname": "0x7d01a79b091343E45BEDB88C9a8DCca191471111",
+		"address": "0x7d01a79b091343E45BEDB88C9a8DCca191471111",
+		"symbol": "ETS"
+	},
+	{
+		"dirname": "0x879900fa25cdae3c2d1b8eb86ecd42def4f210f3",
+		"address": "0x879900fa25cdae3c2d1b8eb86ecd42def4f210f3",
+		"symbol": "EEGA"
+	},
+	{
+		"dirname": "0x89679307c3d2e4e289Da2ccD4D3c44FF39292189",
+		"address": "0x89679307c3d2e4e289Da2ccD4D3c44FF39292189",
+		"symbol": "ETP"
+	},
+	{
+		"dirname": "0x8AF6925631865D3F327b14BA529db2586cC2C16D",
+		"address": "0x8AF6925631865D3F327b14BA529db2586cC2C16D",
+		"symbol": "EYG"
+	},
+	{
+		"dirname": "0x900882Be74c5Cb53eF02D603fCF006CDEf0495c9",
+		"address": "0x900882Be74c5Cb53eF02D603fCF006CDEf0495c9",
+		"symbol": "EDAO"
+	},
+	{
+		"dirname": "0xAaAaC1846734e0Edc24F74c4a7F2385F1D79EAe5",
+		"address": "0xAaAaC1846734e0Edc24F74c4a7F2385F1D79EAe5",
+		"symbol": "ETN"
+	},
+	{
+		"dirname": "0xC2961763AC271A86dFC0E7FBfeFcAEE609695eFf",
+		"address": "0xC2961763AC271A86dFC0E7FBfeFcAEE609695eFf",
+		"symbol": "ETN"
+	},
+	{
+		"dirname": "0xC59Af8bD160EbB85e5671D284bb4721cFAe5EFFd",
+		"address": "0xC59Af8bD160EbB85e5671D284bb4721cFAe5EFFd",
+		"symbol": "ETL"
+	},
+	{
+		"dirname": "0xD151e5F58B6dAd0EC955e7148735C96F4e3B2ffa",
+		"address": "0xD151e5F58B6dAd0EC955e7148735C96F4e3B2ffa",
+		"symbol": "EGA"
+	},
+	{
+		"dirname": "0xE4F3252F268B6B5BEAE4B02A4b99B369bBEA12F1",
+		"address": "0xE4F3252F268B6B5BEAE4B02A4b99B369bBEA12F1",
+		"symbol": "ENG"
+	},
+	{
+		"dirname": "0xEdadFC60402Ec6466F317a6FBDe66CC0C6Eaec20",
+		"address": "0xEdadFC60402Ec6466F317a6FBDe66CC0C6Eaec20",
+		"symbol": "ETHD"
+	},
+	{
+		"dirname": "0xEf1Db65b04ABB6E6d9A1870BeF0B0197eF3121a2",
+		"address": "0xEf1Db65b04ABB6E6d9A1870BeF0B0197eF3121a2",
+		"symbol": "EGC"
+	},
+	{
+		"dirname": "0xFFff132B6B3010Bfa7E9e16631bb3942bDD94461",
+		"address": "0xFFff132B6B3010Bfa7E9e16631bb3942bDD94461",
+		"symbol": "ETCS"
+	},
+	{
+		"dirname": "0xa11D6e01599854a4031008e03F2a0E0b773e94Ab",
+		"address": "0xa11D6e01599854a4031008e03F2a0E0b773e94Ab",
+		"symbol": "EOL"
+	},
+	{
+		"dirname": "0xc04EDAC87f7eD7B282Cd0411672d65452fD10125",
+		"address": "0xc04edac87f7ed7b282cd0411672d65452fd10125",
+		"symbol": "ETL"
+	},
+	{
+		"dirname": "0xcf2e677F62A82FB74bD5031bDd9C0DEE52Ac5BE5",
+		"address": "0xcf2e677F62A82FB74bD5031bDd9C0DEE52Ac5BE5",
+		"symbol": "ETS"
+	},
+	{
+		"dirname": "0xf30b703eB6E743063a55641fA3e4Ba79b881933E",
+		"address": "0xf30b703eB6E743063a55641fA3e4Ba79b881933E",
+		"symbol": "ECE"
 	}
 ]

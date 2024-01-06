@@ -328,5 +328,165 @@
 		"dirname": "0xFf417A88585c209a44f25F93Fe7c29c5ED3c1370",
 		"address": "0xFf417A88585c209a44f25F93Fe7c29c5ED3c1370",
 		"symbol": "HDOGE"
+	},
+	{
+		"dirname": "0x01B7b50221523342591933b1b424ee14F50f4994",
+		"address": "0x01B7b50221523342591933b1b424ee14F50f4994",
+		"symbol": "HCT"
+	},
+	{
+		"dirname": "0x08801120Ab610F42Eaa5c573112EEc68C19cbD9c",
+		"address": "0x08801120Ab610F42Eaa5c573112EEc68C19cbD9c",
+		"symbol": "HB"
+	},
+	{
+		"dirname": "0x0BF1F9636513FF02A1fBEb7358F93fA6a53916F1",
+		"address": "0x0BF1F9636513FF02A1fBEb7358F93fA6a53916F1",
+		"symbol": "HM"
+	},
+	{
+		"dirname": "0x1580F263D0ce2b72ae4d87Bf9F937abF592Fa509",
+		"address": "0x1580F263D0ce2b72ae4d87Bf9F937abF592Fa509",
+		"symbol": "HSB"
+	},
+	{
+		"dirname": "0x1Cb90a174c67AaFAA7131d9Cd8772AaF5Ae5f1a3",
+		"address": "0x1Cb90a174c67AaFAA7131d9Cd8772AaF5Ae5f1a3",
+		"symbol": "HBG"
+	},
+	{
+		"dirname": "0x2490787eFD8DB6d747E32FD652d328CBd541d7D1",
+		"address": "0x2490787eFD8DB6d747E32FD652d328CBd541d7D1",
+		"symbol": "Huobi"
+	},
+	{
+		"dirname": "0x300d361ddFc0149a59650f4bB015B6f819A2e6Af",
+		"address": "0x300d361ddFc0149a59650f4bB015B6f819A2e6Af",
+		"symbol": "HWH"
+	},
+	{
+		"dirname": "0x39ea7d26a53FAC2DA406cC85daF843CEe3777fc0",
+		"address": "0x39ea7d26a53FAC2DA406cC85daF843CEe3777fc0",
+		"symbol": "HKT"
+	},
+	{
+		"dirname": "0x43c200974b8a5eb2c6fe5251b298357f09b76578",
+		"address": "0x43c200974b8a5eb2c6fe5251b298357f09b76578",
+		"symbol": "HROD"
+	},
+	{
+		"dirname": "0x5adf76537f0e2d272b57e167d74b2e8caa9d4afb",
+		"address": "0x5aDf76537F0E2d272B57E167d74b2e8Caa9D4afb",
+		"symbol": "HGPY"
+	},
+	{
+		"dirname": "0x60BA87eDfbc40b8c3F8F58553634B7c2341FD2A9",
+		"address": "0x60BA87eDfbc40b8c3F8F58553634B7c2341FD2A9",
+		"symbol": "HKHX"
+	},
+	{
+		"dirname": "0x6761c3f60f38fEB0F8bae30E874bacfceAd81978",
+		"address": "0x242Bdd719eCf306585250D2735262521b74980eD",
+		"symbol": "HOTV"
+	},
+	{
+		"dirname": "0x6a140b6c59Bfe58beE3305a46ff4f8294E65044F",
+		"address": "0x6a140b6c59Bfe58beE3305a46ff4f8294E65044F",
+		"symbol": "HKE"
+	},
+	{
+		"dirname": "0x75c704bc1027ff6807451c618083608a60650515",
+		"address": "0x75c704bc1027ff6807451c618083608a60650515",
+		"symbol": "HLW"
+	},
+	{
+		"dirname": "0x775c497e4f352F04D787CB916159f45CD9666666",
+		"address": "0x775c497e4f352F04D787CB916159f45CD9666666",
+		"symbol": "HXH"
+	},
+	{
+		"dirname": "0x8355dAAb8550154068c94Cf1d67910fFDA0097A6",
+		"address": "0x8355dAAb8550154068c94Cf1d67910fFDA0097A6",
+		"symbol": "HKT"
+	},
+	{
+		"dirname": "0x84062C89C608D33E06D8Fa3Bf6946c3D64022e1D",
+		"address": "0x84062C89C608D33E06D8Fa3Bf6946c3D64022e1D",
+		"symbol": "HTP"
+	},
+	{
+		"dirname": "0x9340bd2E1D36d1F2Ed79bEF7E1cA603ff1913Bf7",
+		"address": "0x9340bd2E1D36d1F2Ed79bEF7E1cA603ff1913Bf7",
+		"symbol": "HKDAO"
+	},
+	{
+		"dirname": "0x95FdbFC2437eaf47b8247B3B57f9583d5980f333",
+		"address": "0x95FdbFC2437eaf47b8247B3B57f9583d5980f333",
+		"symbol": "HELP"
+	},
+	{
+		"dirname": "0x97dEcB2527F6d1e2d4C09586F70B8Bcc35200e57",
+		"address": "0x97dEcB2527F6d1e2d4C09586F70B8Bcc35200e57",
+		"symbol": "HXRB"
+	},
+	{
+		"dirname": "0x97f6bbc6a9921b930ffabf2660dc106122ec0363",
+		"address": "0x97f6bbc6a9921b930ffabf2660dc106122ec0363",
+		"symbol": "HC"
+	},
+	{
+		"dirname": "0x9928349Eba98c1B81572497E52BBBD69989efF9b",
+		"address": "0x9928349Eba98c1B81572497E52BBBD69989efF9b",
+		"symbol": "HKwb3"
+	},
+	{
+		"dirname": "0x9E21712FEd9cC7208aBea4795a3a141E1A45D659",
+		"address": "0x9E21712FEd9cC7208aBea4795a3a141E1A45D659",
+		"symbol": "HUO"
+	},
+	{
+		"dirname": "0xB1A1D06d42A43a8FCfDC7FDcd744f7eF03e8ad1a",
+		"address": "0xB1A1D06d42A43a8FCfDC7FDcd744f7eF03e8ad1a",
+		"symbol": "HKD"
+	},
+	{
+		"dirname": "0xDe258D96B8926028956A40A0bd3e31e017E2A733",
+		"address": "0xDe258D96B8926028956A40A0bd3e31e017E2A733",
+		"symbol": "HK"
+	},
+	{
+		"dirname": "0xE94A60f6DE752260E9CA2D6B979d4177545409DE",
+		"address": "0xE94A60f6DE752260E9CA2D6B979d4177545409DE",
+		"symbol": "HareKing"
+	},
+	{
+		"dirname": "0xF607a418eD2D9Be22212deE623Aa76325a4D696c",
+		"address": "0xF607a418eD2D9Be22212deE623Aa76325a4D696c",
+		"symbol": "Hashkey"
+	},
+	{
+		"dirname": "0xcD423DD42775C90c56be3DbA51748Ad796E19ca8",
+		"address": "0xcD423DD42775C90c56be3DbA51748Ad796E19ca8",
+		"symbol": "HS"
+	},
+	{
+		"dirname": "0xccD9ef8bd1e72FAaFAdf34b87f62E055fD57Ad56",
+		"address": "0xccD9ef8bd1e72FAaFAdf34b87f62E055fD57Ad56",
+		"symbol": "HML"
+	},
+	{
+		"dirname": "0xebcea4544d56806c987098c6623c5e2232d4a6d1",
+		"address": "0xebcea4544d56806c987098c6623c5e2232d4a6d1",
+		"symbol": "HANABC"
+	},
+	{
+		"dirname": "0xf289B386aD38745e8AB34fff568f8D833e596A02",
+		"address": "00xf289B386aD38745e8AB34fff568f8D833e596A02",
+		"symbol": "HXS"
+	},
+	{
+		"dirname": "0xf55afc27694c9bbb169576300c2382d57ad869b2",
+		"address": "0xf55afc27694c9bbb169576300c2382d57ad869b2",
+		"symbol": "HKB"
 	}
 ]

@@ -148,5 +148,60 @@
 		"dirname": "0xf30925b40C9AEAba7bEbe89549336E49F3A4d360",
 		"address": "0xf30925b40C9AEAba7bEbe89549336E49F3A4d360",
 		"symbol": "JAM"
+	},
+	{
+		"dirname": "0x386907B3BF89682C6947f82C40f060b909B60915",
+		"address": "0x386907B3BF89682C6947f82C40f060b909B60915",
+		"symbol": "JG"
+	},
+	{
+		"dirname": "0x53e75754b2C2d3158E0d9C2a9149E1898468Cbe8",
+		"address": "0x53e75754b2C2d3158E0d9C2a9149E1898468Cbe8",
+		"symbol": "JCB"
+	},
+	{
+		"dirname": "0x57CA2436f9f54F4909a521e24768E21E322cAe88",
+		"address": "0x57CA2436f9f54F4909a521e24768E21E322cAe88",
+		"symbol": "JUPITER"
+	},
+	{
+		"dirname": "0x6120ba0B3538E40aA7aAc32558E5dd0737B7ac90",
+		"address": "0x6120ba0B3538E40aA7aAc32558E5dd0737B7ac90",
+		"symbol": "JESUS"
+	},
+	{
+		"dirname": "0x730f320004Db7A5b6a426E6f4a5ebBBac8D88730",
+		"address": "0x730f320004Db7A5b6a426E6f4a5ebBBac8D88730",
+		"symbol": "JZG"
+	},
+	{
+		"dirname": "0x849408c37da06c20e86b6f0192039c2ac37ff2d5",
+		"address": "0x849408c37da06c20e86b6f0192039c2ac37ff2d5",
+		"symbol": "JOKER"
+	},
+	{
+		"dirname": "0x9fc7d1DD15cb075a5ebeC98E5d04588ba1C689A3",
+		"address": "0x9fc7d1DD15cb075a5ebeC98E5d04588ba1C689A3",
+		"symbol": "JLC"
+	},
+	{
+		"dirname": "0xC40aE4c2251925d0dC04EE4B5a9e20BbC112Ed92",
+		"address": "0xC40aE4c2251925d0dC04EE4B5a9e20BbC112Ed92",
+		"symbol": "JESUS"
+	},
+	{
+		"dirname": "0xD6A0f7Cb96B8AeB9D4Ce596BFc27Ffb30dAe862c",
+		"address": "0xD6A0f7Cb96B8AeB9D4Ce596BFc27Ffb30dAe862c",
+		"symbol": "JRDAO"
+	},
+	{
+		"dirname": "0xf097D091F98b1CDBa362E14112E0bCbB7f6D2097",
+		"address": "0xf097D091F98b1CDBa362E14112E0bCbB7f6D2097",
+		"symbol": "JD"
+	},
+	{
+		"dirname": "0xf4e0e5feb77f7e92bd020d7884f7e75dec1743ef",
+		"address": "0xf4e0e5feb77f7e92bd020d7884f7e75dec1743ef",
+		"symbol": "JK"
 	}
 ]

@@ -233,5 +233,150 @@
 		"dirname": "0xfF44Ac27ab6A910ce92cb449AfC2b63F7ce23113",
 		"address": "0xfF44Ac27ab6A910ce92cb449AfC2b63F7ce23113",
 		"symbol": "KDP"
+	},
+	{
+		"dirname": "0x105B0e795E4ac3b5F1f9F6AFaC7EF8445905aA5b",
+		"address": "0x105B0e795E4ac3b5F1f9F6AFaC7EF8445905aA5b",
+		"symbol": "KGT"
+	},
+	{
+		"dirname": "0x2103B5FF3d99969A9AC7c28E444Fd5e6D728EffC",
+		"address": "0x2103B5FF3d99969A9AC7c28E444Fd5e6D728EffC",
+		"symbol": "KFFF"
+	},
+	{
+		"dirname": "0x2b9DFc303Fbe4948e839735A69573319Ad048171",
+		"address": "0x2b9DFc303Fbe4948e839735A69573319Ad048171",
+		"symbol": "KELE"
+	},
+	{
+		"dirname": "0x316878feF81a307D474C042683088942c8116fD7",
+		"address": "0x316878feF81a307D474C042683088942c8116fD7",
+		"symbol": "KGT"
+	},
+	{
+		"dirname": "0x3b918FDc7b599F69c7fCBD863A23Ef7212f4B274",
+		"address": "0x3b918FDc7b599F69c7fCBD863A23Ef7212f4B274",
+		"symbol": "KC"
+	},
+	{
+		"dirname": "0x58795924b960d80831b59383972Bf9cF6E2Ba157",
+		"address": "0x58795924b960d80831b59383972Bf9cF6E2Ba157",
+		"symbol": "KJ"
+	},
+	{
+		"dirname": "0x5acE9F5D3494AE3dA48e2c681461bC565960CEDd",
+		"address": "0x5acE9F5D3494AE3dA48e2c681461bC565960CEDd",
+		"symbol": "KFD"
+	},
+	{
+		"dirname": "0x60045B3806c973F3aAD8497d98f01E582CCb15b1",
+		"address": "0x60045B3806c973F3aAD8497d98f01E582CCb15b1",
+		"symbol": "KMC"
+	},
+	{
+		"dirname": "0x71143a2E5361C6Cf438AD3d5D3A9ee3344a24551",
+		"address": "0x71143a2e5361c6cf438ad3d5d3a9ee3344a24551",
+		"symbol": "KAFGYING"
+	},
+	{
+		"dirname": "0x79629450DA16f9D9a1d35Ba8f592735712a11f71",
+		"address": "0x79629450DA16f9D9a1d35Ba8f592735712a11f71",
+		"symbol": "KOB"
+	},
+	{
+		"dirname": "0x7A363292d186AB38649a8e25c2fF01D6c5999998",
+		"address": "0x7A363292d186AB38649a8e25c2fF01D6c5999998",
+		"symbol": "KLNT"
+	},
+	{
+		"dirname": "0x7c10A82D19713a9240E71bD3dea86c3Fc5885171",
+		"address": "0x7c10A82D19713a9240E71bD3dea86c3Fc5885171",
+		"symbol": "KBC"
+	},
+	{
+		"dirname": "0x82EF83A8a29bB119c0566A6E8E95f20896Ed94Cb",
+		"address": "0x82EF83A8a29bB119c0566A6E8E95f20896Ed94Cb",
+		"symbol": "KGT"
+	},
+	{
+		"dirname": "0x883B5F2B424E43D49612Ae9251DbcB5C7E670E87",
+		"address": "0x883B5F2B424E43D49612Ae9251DbcB5C7E670E87",
+		"symbol": "KOB"
+	},
+	{
+		"dirname": "0x9C696f2b7b192f00b49510E03F4a24B05b058A03",
+		"address": "0x9C696f2b7b192f00b49510E03F4a24B05b058A03",
+		"symbol": "KEY"
+	},
+	{
+		"dirname": "0xA91D5c381F094A015b71b5Bdd1E9A3942cE02cC3",
+		"address": "0xA91D5c381F094A015b71b5Bdd1E9A3942cE02cC3",
+		"symbol": "KBC"
+	},
+	{
+		"dirname": "0xA91D72F52d44DE859d32Cf00DbEf9982F0B1488B",
+		"address": "0xA91D72F52d44DE859d32Cf00DbEf9982F0B1488B",
+		"symbol": "KA"
+	},
+	{
+		"dirname": "0xE1D3609Bd1857BbD07F581d43e44AAE6E175F18a",
+		"address": "0xE1D3609Bd1857BbD07F581d43e44AAE6E175F18a",
+		"symbol": "KLD"
+	},
+	{
+		"dirname": "0xEa265c66992D359C0f86ba55B271483634134320",
+		"address": "0xEa265c66992D359C0f86ba55B271483634134320",
+		"symbol": "KBX"
+	},
+	{
+		"dirname": "0xa653D18e50c8d4Bda520628c9Ef9dbE858cA7774",
+		"address": "00xa653D18e50c8d4Bda520628c9Ef9dbE858cA7774",
+		"symbol": "KLKL"
+	},
+	{
+		"dirname": "0xb05ebc27ed2266097811da1babfb045b5fbcb98d",
+		"address": "0xb05ebc27ed2266097811da1babfb045b5fbcb98d",
+		"symbol": "KingArthur"
+	},
+	{
+		"dirname": "0xb569e3ffc6f9bd79c744ad594534083a0ff86b25",
+		"address": "0xb569e3ffc6f9bd79c744ad594534083a0ff86b25",
+		"symbol": "KPH"
+	},
+	{
+		"dirname": "0xb98bd02627af151706ba3a54b0b30903927118f8",
+		"address": "0xB98bD02627AF151706BA3A54B0b30903927118F8",
+		"symbol": "K8s"
+	},
+	{
+		"dirname": "0xbBC80cEEF7d09f42f2161B5E19A5A91A56Cc0977",
+		"address": "0xbBC80cEEF7d09f42f2161B5E19A5A91A56Cc0977",
+		"symbol": "KZ"
+	},
+	{
+		"dirname": "0xbcf7668689fcfb54443107b5e9f1b0393040ac68",
+		"address": "0xbcf7668689fcfb54443107b5e9f1b0393040ac68",
+		"symbol": "KKC"
+	},
+	{
+		"dirname": "0xbe397E01394e6d813eE313731978B19bbe1Bb9d9",
+		"address": "0xbe397E01394e6d813eE313731978B19bbe1Bb9d9",
+		"symbol": "Koro"
+	},
+	{
+		"dirname": "0xc5322d8D9418b5cE11920B48c5Bca3897e2B33D7",
+		"address": "0xc5322d8D9418b5cE11920B48c5Bca3897e2B33D7",
+		"symbol": "KTBK"
+	},
+	{
+		"dirname": "0xe63023E0AB9261838a9790C16Ad10fFc0a553C37",
+		"address": "0xe63023E0AB9261838a9790C16Ad10fFc0a553C37",
+		"symbol": "KGT"
+	},
+	{
+		"dirname": "0xe9BfAE2eb2c81cAEFdaF372cB5E4F9398D7e05AB",
+		"address": "0xe9BfAE2eb2c81cAEFdaF372cB5E4F9398D7e05AB",
+		"symbol": "KING"
 	}
 ]

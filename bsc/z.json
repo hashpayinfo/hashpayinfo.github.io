@@ -183,5 +183,90 @@
 		"dirname": "0xfCaDD830fF2D6Cf3AD1681E1e8FC5DDCe9d59E74",
 		"address": "0xfCaDD830fF2D6Cf3AD1681E1e8FC5DDCe9d59E74",
 		"symbol": "ZADA"
+	},
+	{
+		"dirname": "0x05572A72b6D5cDd8ac0EfbA7bA05B4153B10e9b6",
+		"address": "0x05572A72b6D5cDd8ac0EfbA7bA05B4153B10e9b6",
+		"symbol": "ZKF"
+	},
+	{
+		"dirname": "0x25279dEc13c0baD97b2d972250cB8050fCc5FC71",
+		"address": "0x25279dEc13c0baD97b2d972250cB8050fCc5FC71",
+		"symbol": "zbcvs"
+	},
+	{
+		"dirname": "0x3158dA7276dF42B471Cda936262dF123D2db083E",
+		"address": "0x3158dA7276dF42B471Cda936262dF123D2db083E",
+		"symbol": "ZGM"
+	},
+	{
+		"dirname": "0x37a56cdcD83Dce2868f721De58cB3830C44C6303",
+		"address": "0x37a56cdcD83Dce2868f721De58cB3830C44C6303",
+		"symbol": "ZBC"
+	},
+	{
+		"dirname": "0x417DB33900BDDF1a580690674a6097f146AB651B",
+		"address": "0x417DB33900BDDF1a580690674a6097f146AB651B",
+		"symbol": "ZST"
+	},
+	{
+		"dirname": "0x44ac762dB7E7170A48e895fDC81Bc2e81c188888",
+		"address": "0x44ac762dB7E7170A48e895fDC81Bc2e81c188888",
+		"symbol": "ZM"
+	},
+	{
+		"dirname": "0x4793520074D024a75dD3112fE57a66347efaBA3f",
+		"address": "0x4793520074D024a75dD3112fE57a66347efaBA3f",
+		"symbol": "ZUA"
+	},
+	{
+		"dirname": "0x49954ad438fa9e27c21aecd35078dd52cddd96be",
+		"address": "0x49954ad438fa9e27c21aecd35078dd52cddd96be",
+		"symbol": "ZSKRAT"
+	},
+	{
+		"dirname": "0x6003168e3e52ecff7ddee8a5eb799331ad9a7df6",
+		"address": "0x6003168e3e52EcFf7DDee8A5eb799331Ad9a7Df6",
+		"symbol": "ZT"
+	},
+	{
+		"dirname": "0x71648e92c422f81B3eF86a09D00A07e719A2A7EF",
+		"address": "0x71648e92c422f81B3eF86a09D00A07e719A2A7EF",
+		"symbol": "zj"
+	},
+	{
+		"dirname": "0x8a56Ed0fD62F53B2b66398ab899297aAE57DFdaE",
+		"address": "0x8a56Ed0fD62F53B2b66398ab899297aAE57DFdaE",
+		"symbol": "ZAN"
+	},
+	{
+		"dirname": "0x8b4D4e4fB663725E19087d384B1C8C1a10cDe9f7",
+		"address": "0x8b4D4e4fB663725E19087d384B1C8C1a10cDe9f7",
+		"symbol": "ZYC"
+	},
+	{
+		"dirname": "0x9328753580A0C71fc6044208505F8215FA5FaAD0",
+		"address": "0x9328753580A0C71fc6044208505F8215FA5FaAD0",
+		"symbol": "ZGLong"
+	},
+	{
+		"dirname": "0xB8e75Ec64acd6DDCE9Faf04f59195909dcfAbC90",
+		"address": "0xB8e75Ec64acd6DDCE9Faf04f59195909dcfAbC90",
+		"symbol": "ZGFeng"
+	},
+	{
+		"dirname": "0xC12A601724b388bf8c16DdA9DA3DaAc08643DE85",
+		"address": "0xC12A601724b388bf8c16DdA9DA3DaAc08643DE85",
+		"symbol": "ZillaCoin"
+	},
+	{
+		"dirname": "0xef76bee19199eba8366685a520b9715f55c15c91",
+		"address": "0xef76bee19199eba8366685a520b9715f55c15c91",
+		"symbol": "ZK"
+	},
+	{
+		"dirname": "0xfC15A884471163f2DAc5169159B04F1e9D6B1698",
+		"address": "0xfC15A884471163f2DAc5169159B04F1e9D6B1698",
+		"symbol": "ZGL"
 	}
 ]

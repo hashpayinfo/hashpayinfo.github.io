@@ -158,5 +158,80 @@
 		"dirname": "0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa",
 		"address": "0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa",
 		"symbol": "VINU"
+	},
+	{
+		"dirname": "0x02C24afd0eB2dd298cD0d72D3Be930f4a09D2429",
+		"address": "0x02C24afd0eB2dd298cD0d72D3Be930f4a09D2429",
+		"symbol": "VENO"
+	},
+	{
+		"dirname": "0x1f2087698cD496711806aBA053ddA3660Da87586",
+		"address": "0x1f2087698cD496711806aBA053ddA3660Da87586",
+		"symbol": "VK"
+	},
+	{
+		"dirname": "0x248a34bc59ef85b10FFc40a16f247c8dF9Bf1Ce9",
+		"address": "0x248a34bc59ef85b10FFc40a16f247c8dF9Bf1Ce9",
+		"symbol": "VCD"
+	},
+	{
+		"dirname": "0x4C9095e290f3945df5C5C5d07f69B4d1C402fDb5",
+		"address": "0x4C9095e290f3945df5C5C5d07f69B4d1C402fDb5",
+		"symbol": "VDS"
+	},
+	{
+		"dirname": "0x56eEf499860a3532ECAa4DaF1078F4dD6c638596",
+		"address": "0x56eEf499860a3532ECAa4DaF1078F4dD6c638596",
+		"symbol": "VTM"
+	},
+	{
+		"dirname": "0x6F20B770859ABa2a3EaD688f0E3B5eDe0Dd0CED0",
+		"address": "0x6F20B770859ABa2a3EaD688f0E3B5eDe0Dd0CED0",
+		"symbol": "VDS"
+	},
+	{
+		"dirname": "0x88888b6Bad5B7B3b1B924A19cB452E658DdF8207",
+		"address": "0x88888b6Bad5B7B3b1B924A19cB452E658DdF8207",
+		"symbol": "VIA"
+	},
+	{
+		"dirname": "0x954343364Ad19D059f9E5Aa0E608C63865f9f04e",
+		"address": "0x954343364ad19d059f9e5aa0e608c63865f9f04e",
+		"symbol": "VPD"
+	},
+	{
+		"dirname": "0x9FE22D981F2C9F3563d044c43E14feEeCDe8FC54",
+		"address": "0x9FE22D981F2C9F3563d044c43E14feEeCDe8FC54",
+		"symbol": "VUS"
+	},
+	{
+		"dirname": "0xFDe00639EDd0d4ec2297149a929FF040C58C4B60",
+		"address": "0xFDe00639EDd0d4ec2297149a929FF040C58C4B60",
+		"symbol": "VG"
+	},
+	{
+		"dirname": "0xa0F84F31ea99cBC957c48E81568114cedb8B7A57",
+		"address": "0xa0F84F31ea99cBC957c48E81568114cedb8B7A57",
+		"symbol": "VENUS"
+	},
+	{
+		"dirname": "0xb144C6e2e270d46f3C7cfB331F217B3f602680DC",
+		"address": "0xb144c6e2e270d46f3c7cfb331f217b3f602680dc",
+		"symbol": "VDD"
+	},
+	{
+		"dirname": "0xd1c589C568259849058A3ebE31a285672fec12c3",
+		"address": "0xd1c589C568259849058A3ebE31a285672fec12c3",
+		"symbol": "VPP"
+	},
+	{
+		"dirname": "0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6",
+		"address": "0xfDD2374be7ae7a71138B9f6b93d9eF034a49edB6",
+		"symbol": "VRGW"
+	},
+	{
+		"dirname": "0xfF0cF95b71C8e191eE855a6a32a78a48677B5885",
+		"address": "0xfF0cF95b71C8e191eE855a6a32a78a48677B5885",
+		"symbol": "VC"
 	}
 ]

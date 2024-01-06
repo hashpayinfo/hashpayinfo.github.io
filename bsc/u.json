@@ -128,5 +128,135 @@
 		"dirname": "0xE67B8E66d7D8cC1028BacD05C4e60d14e9aF2F2E",
 		"address": "0xE67B8E66d7D8cC1028BacD05C4e60d14e9aF2F2E",
 		"symbol": "UIL"
+	},
+	{
+		"dirname": "0x09A0D93A12d20bF21b2a18225B5997F5d9729E38",
+		"address": "0x09A0D93A12d20bF21b2a18225B5997F5d9729E38",
+		"symbol": "USCC"
+	},
+	{
+		"dirname": "0x1491fcd48de57e5f9571444ff608f514288145dd",
+		"address": "0x1491fCd48dE57e5F9571444ff608f514288145dD",
+		"symbol": "USDP(PAX)"
+	},
+	{
+		"dirname": "0x196Eb1D21C05CC265Ea0a1479E924E7983467838",
+		"address": "0x196Eb1D21C05CC265Ea0a1479E924E7983467838",
+		"symbol": "UVT"
+	},
+	{
+		"dirname": "0x1DCdD6Ab80CA732a3ad4e9F857b33d7e90D0Bba8",
+		"address": "0x1DCdD6Ab80CA732a3ad4e9F857b33d7e90D0Bba8",
+		"symbol": "UNL"
+	},
+	{
+		"dirname": "0x1F88E9956c8f8F64c8D5fEF5eD8A818E2237112c",
+		"address": "0x1F88E9956c8f8F64c8D5fEF5eD8A818E2237112c",
+		"symbol": "UCON"
+	},
+	{
+		"dirname": "0x1a50aAcE5906Da512317d7ddeC6Bc2f22a87B698",
+		"address": "0x1a50aAcE5906Da512317d7ddeC6Bc2f22a87B698",
+		"symbol": "UVC"
+	},
+	{
+		"dirname": "0x35Da89A339DE2c78F8FB1c5e1A9a9C6539e2FA8A",
+		"address": "0x35Da89A339DE2c78F8FB1c5e1A9a9C6539e2FA8A",
+		"symbol": "UNC"
+	},
+	{
+		"dirname": "0x3e44f619eBE8d527579ca61189F7103AC6d8dB9A",
+		"address": "0x3e44f619eBE8d527579ca61189F7103AC6d8dB9A",
+		"symbol": "UFO"
+	},
+	{
+		"dirname": "0x50E448Ca0b1ee7Cd05262559819C00C15963C688",
+		"address": "0x50E448Ca0b1ee7Cd05262559819C00C15963C688",
+		"symbol": "UDD"
+	},
+	{
+		"dirname": "0x5c5530d54E6a983dE70B3383Da910e81815f93F6",
+		"address": "0x5c5530d54E6a983dE70B3383Da910e81815f93F6",
+		"symbol": "UIV"
+	},
+	{
+		"dirname": "0x6720b52F8281239200eBd5D751982aCEE4082F7C",
+		"address": "0x6720b52F8281239200eBd5D751982aCEE4082F7C",
+		"symbol": "UFO"
+	},
+	{
+		"dirname": "0x6E6005D1EB5a429F685EA907DDE649bc1032CC39",
+		"address": "0x6E6005D1EB5a429F685EA907DDE649bc1032CC39",
+		"symbol": "UND"
+	},
+	{
+		"dirname": "0x8dCC097EdDE59D36CC4483085c3D92F6820D77b3",
+		"address": "0x8dCC097EdDE59D36CC4483085c3D92F6820D77b3",
+		"symbol": "UIV"
+	},
+	{
+		"dirname": "0x9154bf968d1949a2Dfa4F691C4d36c4d12f231c5",
+		"address": "0x9154bf968d1949a2dfa4f691c4d36c4d12f231c5",
+		"symbol": "UVC"
+	},
+	{
+		"dirname": "0x936685c7D81a03a204219Cc7D0E61684c65471CA",
+		"address": "0x936685c7D81a03a204219Cc7D0E61684c65471CA",
+		"symbol": "UFD"
+	},
+	{
+		"dirname": "0x94fc0e2c621140b5e5f575cd7fbea5a573519c28",
+		"address": "0x94fc0e2c621140b5e5f575cd7fbea5a573519c28",
+		"symbol": "USDA"
+	},
+	{
+		"dirname": "0x96F75B57ba0cf514F932D24e076b6CB52E8Fe583",
+		"address": "0x96F75B57ba0cf514F932D24e076b6CB52E8Fe583",
+		"symbol": "UCON"
+	},
+	{
+		"dirname": "0xA2b532DA50286B5a78c6eAC65d485492192Fec43",
+		"address": "0xA2b532DA50286B5a78c6eAC65d485492192Fec43",
+		"symbol": "UAB"
+	},
+	{
+		"dirname": "0xC257Bb8E08A85d1330718F1663070feC332e8cAd",
+		"address": "0xC257Bb8E08A85d1330718F1663070feC332e8cAd",
+		"symbol": "UTODAO"
+	},
+	{
+		"dirname": "0xC3ad8676e74ba014d137686a42ea17A015b1d9Ec",
+		"address": "0xC3ad8676e74ba014d137686a42ea17A015b1d9Ec",
+		"symbol": "UP"
+	},
+	{
+		"dirname": "0xC825E3eb47D82877988BF6669E49FDcb6F1A269F",
+		"address": "0xC825E3eb47D82877988BF6669E49FDcb6F1A269F",
+		"symbol": "UMI"
+	},
+	{
+		"dirname": "0xCc6372eA8a4C14509B64dd384F6f6EEc9272E683",
+		"address": "0xCc6372eA8a4C14509B64dd384F6f6EEc9272E683",
+		"symbol": "UIV"
+	},
+	{
+		"dirname": "0xEf1ad13F64AC26b18d062832dF9AbD4eF887FEA6",
+		"address": "0xEf1ad13F64AC26b18d062832dF9AbD4eF887FEA6",
+		"symbol": "UTO"
+	},
+	{
+		"dirname": "0xb7Ed2c5514496591142F3098Ef40ee6F56c3A45C",
+		"address": "0xb7Ed2c5514496591142F3098Ef40ee6F56c3A45C",
+		"symbol": "USDs"
+	},
+	{
+		"dirname": "0xc169BA9D43E0bE49d64F621D8Cd49E065470D1ab",
+		"address": "0xc169BA9D43E0bE49d64F621D8Cd49E065470D1ab",
+		"symbol": "USDP"
+	},
+	{
+		"dirname": "0xe5D423D574944316e437B126617BA7a226f7703D",
+		"address": "0xe5D423D574944316e437B126617BA7a226f7703D",
+		"symbol": "UATs"
 	}
 ]

@@ -1,4 +1,4 @@
-    "name": "CluCoin",
+    {"name": "CluCoin",
     "website": "https://clucoin.com",
     "socials": [
         {
@@ -8,7 +8,7 @@
         {
             "name": "Telegram",
             "url": "https://t.me/cluspace"
-        },
+        }
     ],
     "description": "Hyper Deflationary Token with Smart Staking System. Hold, earn and help others in need.",
     "explorer": "https://bscscan.com/token/0x1162e2efce13f99ed259ffc24d99108aaa0ce935",

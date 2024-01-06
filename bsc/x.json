@@ -133,5 +133,85 @@
 		"dirname": "0xFF2BF41EC57b897c914E2BAac857D621f4CB1691",
 		"address": "0xFF2BF41EC57b897c914E2BAac857D621f4CB1691",
 		"symbol": "XTime"
+	},
+	{
+		"dirname": "0x0009Ae5a69B037eA74A900783fab457fa605ae5d",
+		"address": "0x0009Ae5a69B037eA74A900783fab457fa605ae5d",
+		"symbol": "XAI"
+	},
+	{
+		"dirname": "0x0D179637596E8f92f415592fdf9091d591c97Ec3",
+		"address": "0x0D179637596E8f92f415592fdf9091d591c97Ec3",
+		"symbol": "XJT"
+	},
+	{
+		"dirname": "0x183b771f5c268B2DCC97a6300af9b4557411A7e5",
+		"address": "0x183b771f5c268B2DCC97a6300af9b4557411A7e5",
+		"symbol": "XDL"
+	},
+	{
+		"dirname": "0x2A45a892877Ef383c5fc93A5206546c97496da9e",
+		"address": "0x2A45a892877Ef383c5fc93A5206546c97496da9e",
+		"symbol": "X"
+	},
+	{
+		"dirname": "0x46F9d849ba5fcFb6C6Ba83738c06A250E3B34aCe",
+		"address": "0x46F9d849ba5fcFb6C6Ba83738c06A250E3B34aCe",
+		"symbol": "X"
+	},
+	{
+		"dirname": "0x4Ea9d940315cBaa26241e6ae7137f25eB6cCC666",
+		"address": "0x4Ea9d940315cBaa26241e6ae7137f25eB6cCC666",
+		"symbol": "XCC"
+	},
+	{
+		"dirname": "0x67E20170749c501786b9cBa6A56800A512Ea355d",
+		"address": "0x67E20170749c501786b9cBa6A56800A512Ea355d",
+		"symbol": "XMT"
+	},
+	{
+		"dirname": "0x7c5c1A274E7c297db988910C1446B9EEE763e26F",
+		"address": "0x7c5c1A274E7c297db988910C1446B9EEE763e26F",
+		"symbol": "XYT"
+	},
+	{
+		"dirname": "0x88691f292b76bf4d2caa5678a54515fae77c33af",
+		"address": "0x88691f292b76bf4d2caa5678a54515fae77c33af",
+		"symbol": "XPE"
+	},
+	{
+		"dirname": "0x8Ea43e15b1a616a19903F6A87498F7dCa1efae0f",
+		"address": "0x8Ea43e15b1a616a19903F6A87498F7dCa1efae0f",
+		"symbol": "xAI"
+	},
+	{
+		"dirname": "0x8aA98bdbC4BF7E6A65aBBb19244b850f0cB32024",
+		"address": "0x8aA98bdbC4BF7E6A65aBBb19244b850f0cB32024",
+		"symbol": "X1020"
+	},
+	{
+		"dirname": "0xD16EaabA33a0822f5cBe4E0C63CA51D3c3fbB08B",
+		"address": "0xD16EaabA33a0822f5cBe4E0C63CA51D3c3fbB08B",
+		"symbol": "XAI"
+	},
+	{
+		"dirname": "0xDC5ee0b80bFFa5c99783d00D8422618A2b4A0bf7",
+		"address": "0xDC5ee0b80bFFa5c99783d00D8422618A2b4A0bf7",
+		"symbol": "XYT"
+	},
+	{
+		"dirname": "0xE5C1Ceede45aE5acc2736799a8F01a1691b90AB0",
+		"address": "0xE5C1Ceede45aE5acc2736799a8F01a1691b90AB0",
+		"symbol": "XBC"
+	},
+	{
+		"dirname": "0xb0cb8dd3b2aa9558ba632a350e242f58d2e289b0",
+		"address": "0xb0CB8dd3B2aa9558bA632A350E242f58D2E289b0",
+		"symbol": "XMC"
+	},
+	{
+		"dirname": "0xb9343613b46E61b175A4bf92Bc908B2cFf7296c9",
+		"address": "0xb9343613b46E61b175A4bf92Bc908B2cFf7296c9",
+		"symbol": "xinc"
 	}
 ]

@@ -88,5 +88,70 @@
 		"dirname": "0xF02188236708F2461E4ea726F9229fE4596be698",
 		"address": "0xF02188236708F2461E4ea726F9229fE4596be698",
 		"symbol": "inSF"
+	},
+	{
+		"dirname": "0x1676ECC8b58CEb7797C243d2A137814A3f63A6e4",
+		"address": "0x1676ECC8b58CEb7797C243d2A137814A3f63A6e4",
+		"symbol": "ISPACE"
+	},
+	{
+		"dirname": "0x1E7f02e9b6995c42942E69d533A65c72b63754Bb",
+		"address": "0x1E7f02e9b6995c42942E69d533A65c72b63754Bb",
+		"symbol": "INT"
+	},
+	{
+		"dirname": "0x2967320bb05a9bb4Dd9F8198E594772B04b458B1",
+		"address": "0x2967320bb05a9bb4Dd9F8198E594772B04b458B1",
+		"symbol": "INSTINCT"
+	},
+	{
+		"dirname": "0x307C5C9a010a2aC3B69cd74B373b575AcC04A57c",
+		"address": "0x307C5C9a010a2aC3B69cd74B373b575AcC04A57c",
+		"symbol": "IOTC"
+	},
+	{
+		"dirname": "0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30",
+		"address": "0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30",
+		"symbol": "INSUR"
+	},
+	{
+		"dirname": "0x5274397CC6a579581a67Ff5799aaD6b491340bB6",
+		"address": "0x5274397CC6a579581a67Ff5799aaD6b491340bB6",
+		"symbol": "IRON"
+	},
+	{
+		"dirname": "0xA3B697974309b3211E6a3757E7ED74D086789ecA",
+		"address": "0xA3B697974309b3211E6a3757E7ED74D086789ecA",
+		"symbol": "ISC"
+	},
+	{
+		"dirname": "0xD4AA889d3690b52aB4a1a5090142f133834358f2",
+		"address": "0xD4AA889d3690b52aB4a1a5090142f133834358f2",
+		"symbol": "IGS"
+	},
+	{
+		"dirname": "0xE7AE2be1769A6B2391D5293BA476b9D2CEF900a5",
+		"address": "0xE7AE2be1769A6B2391D5293BA476b9D2CEF900a5",
+		"symbol": "iMC"
+	},
+	{
+		"dirname": "0xF42a22352737c70D0f3b2581a279fC977bc87f91",
+		"address": "0xF42a22352737c70D0f3b2581a279fC977bc87f91",
+		"symbol": "iMST"
+	},
+	{
+		"dirname": "0xa3bbf8236fa1D8eEb707F855cEac9D06380Aa6e3",
+		"address": "0xa3bbf8236fa1D8eEb707F855cEac9D06380Aa6e3",
+		"symbol": "IDS"
+	},
+	{
+		"dirname": "0xade2321EfCc54b1d0676a29E331579DA7B82aA76",
+		"address": "0xade2321EfCc54b1d0676a29E331579DA7B82aA76",
+		"symbol": "IPP"
+	},
+	{
+		"dirname": "0xedb581667841dE585Ed67751381b906695099a4A",
+		"address": "0xedb581667841dE585Ed67751381b906695099a4A",
+		"symbol": "IronFish"
 	}
 ]

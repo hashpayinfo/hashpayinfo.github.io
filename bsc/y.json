@@ -113,5 +113,85 @@
 		"dirname": "0xF8357331711820F9cd91cC28442a108e18bC6f21",
 		"address": "0xF8357331711820F9cd91cC28442a108e18bC6f21",
 		"symbol": "Yi"
+	},
+	{
+		"dirname": "0x077bc655c8d81b7de71c79318d0eb8f987e12820",
+		"address": "0x077bc655c8d81b7de71c79318d0eb8f987e12820",
+		"symbol": "YURI"
+	},
+	{
+		"dirname": "0x083E5eD3C565d689Ee927512e424f53B4f718D18",
+		"address": "0x083E5eD3C565d689Ee927512e424f53B4f718D18",
+		"symbol": "YPT"
+	},
+	{
+		"dirname": "0x22AdAFC66A7D4FeFc9c3F39B4c07CFCE3cC021a2",
+		"address": "0x22AdAFC66A7D4FeFc9c3F39B4c07CFCE3cC021a2",
+		"symbol": "YYDS"
+	},
+	{
+		"dirname": "0x2D5dD8297736461323f0B93F952a14Fa00216888",
+		"address": "0x2D5dD8297736461323f0B93F952a14Fa00216888",
+		"symbol": "YH"
+	},
+	{
+		"dirname": "0x40C10F5268D4F6D1CB59E40e8b142e7EaF8E3ca2",
+		"address": "0x40C10F5268D4F6D1CB59E40e8b142e7EaF8E3ca2",
+		"symbol": "YCAI"
+	},
+	{
+		"dirname": "0x488123b6185a42d9640e369DB9E77acBeE33DA72",
+		"address": "0x488123b6185a42d9640e369DB9E77acBeE33DA72",
+		"symbol": "YU"
+	},
+	{
+		"dirname": "0x5672e1c20961005ffFCBF85FB36aF40E08351343",
+		"address": "0x5672e1c20961005ffFCBF85FB36aF40E08351343",
+		"symbol": "YBC"
+	},
+	{
+		"dirname": "0x60B741435Bf7e84AF342CecE6ce919C8A8777596",
+		"address": "0x60B741435Bf7e84AF342CecE6ce919C8A8777596",
+		"symbol": "YJR"
+	},
+	{
+		"dirname": "0x7008Ed7fdfA1fd5BE00cd5C1CA8C7723eB8cE533",
+		"address": "0x7008Ed7fdfA1fd5BE00cd5C1CA8C7723eB8cE533",
+		"symbol": "YES"
+	},
+	{
+		"dirname": "0x8772EB993841C335185afC1A55c1d9347099e2E9",
+		"address": "0x8772EB993841C335185afC1A55c1d9347099e2E9",
+		"symbol": "YFI"
+	},
+	{
+		"dirname": "0x97Ea465e7Ed3B817364dd096A614122D6082320D",
+		"address": "0x97Ea465e7Ed3B817364dd096A614122D6082320D",
+		"symbol": "YUTU"
+	},
+	{
+		"dirname": "0x9861496f9d281bc8229e9ca8ccc30a579f699b1f",
+		"address": "0x9861496f9D281bc8229e9cA8CCC30a579F699b1f",
+		"symbol": "YGBH"
+	},
+	{
+		"dirname": "0x9D00eE6d660353AC128c58a1cAAaB7E635F693A8",
+		"address": "0x9D00eE6d660353AC128c58a1cAAaB7E635F693A8",
+		"symbol": "YZT"
+	},
+	{
+		"dirname": "0xD8295Eba490a9cA0eD9Cc074AAF634D344d49fCd",
+		"address": "0xD8295Eba490a9cA0eD9Cc074AAF634D344d49fCd",
+		"symbol": "YFD"
+	},
+	{
+		"dirname": "0xaB0C06125549e6C57636850CA26019b06326B0BA",
+		"address": "0xaB0C06125549e6C57636850CA26019b06326B0BA",
+		"symbol": "Yutu"
+	},
+	{
+		"dirname": "0xd254Ef6370a6744cf7fEAc6fF93B8310c643DaEb",
+		"address": "0xd254Ef6370a6744cf7fEAc6fF93B8310c643DaEb",
+		"symbol": "YJR"
 	}
 ]

@@ -268,5 +268,190 @@
 		"dirname": "0xfCAE297514B07c043D0bC0b5C372E6E7e1e094e2",
 		"address": "0xfCAE297514B07c043D0bC0b5C372E6E7e1e094e2",
 		"symbol": "RDOG"
+	},
+	{
+		"dirname": "0x005780Bc7706DCAF46C7BE87452432a9Ec1F5d5F",
+		"address": "0x005780Bc7706DCAF46C7BE87452432a9Ec1F5d5F",
+		"symbol": "Rabbit"
+	},
+	{
+		"dirname": "0x0187fEB4166265654252CBcB49579a018309339F",
+		"address": "0x0187fEB4166265654252CBcB49579a018309339F",
+		"symbol": "RacoonCity"
+	},
+	{
+		"dirname": "0x09fE8449f2eF87f99BC611C9c46ED5cFEB3E6666",
+		"address": "0x09fE8449f2eF87f99BC611C9c46ED5cFEB3E6666",
+		"symbol": "Rabbit"
+	},
+	{
+		"dirname": "0x0B103AEa1805bc98876101BB13FdB4d120Fc37a0",
+		"address": "0x0B103AEa1805bc98876101BB13FdB4d120Fc37a0",
+		"symbol": "RPC"
+	},
+	{
+		"dirname": "0x0D656Cc53354f758853e84BC25935F836f61B35C",
+		"address": "0x0D656Cc53354f758853e84BC25935F836f61B35C",
+		"symbol": "RX"
+	},
+	{
+		"dirname": "0x0d4CEc2aC8694d88A560b45C60B7990A866CD4BF",
+		"address": "0x0d4CEc2aC8694d88A560b45C60B7990A866CD4BF",
+		"symbol": "RT"
+	},
+	{
+		"dirname": "0x0dC4A68E965e70bB78330F05640b432CB06F7d85",
+		"address": "0x0dC4A68E965e70bB78330F05640b432CB06F7d85",
+		"symbol": "RTC"
+	},
+	{
+		"dirname": "0x123646F2eba15760666b976B4B399D712efffFeA",
+		"address": "0x123646F2eba15760666b976B4B399D712efffFeA",
+		"symbol": "REPE"
+	},
+	{
+		"dirname": "0x1BcCf995cc388a378d34d09687Ed59B8e11e8E32",
+		"address": "0x1BcCf995cc388a378d34d09687Ed59B8e11e8E32",
+		"symbol": "RWB "
+	},
+	{
+		"dirname": "0x1fB51187A0a5e9f200D8abfeda8DeFF6ef663355",
+		"address": "0x1fB51187A0a5e9f200D8abfeda8DeFF6ef663355",
+		"symbol": "RATS"
+	},
+	{
+		"dirname": "0x2aCfaFdeb59AB030a871eCc6346BC66d3142585f",
+		"address": "0x2aCfaFdeb59AB030a871eCc6346BC66d3142585f",
+		"symbol": "RRXY"
+	},
+	{
+		"dirname": "0x361AeC09656e1cb2B3990f48A4c559355030Af52",
+		"address": "0x361AeC09656e1cb2B3990f48A4c559355030Af52",
+		"symbol": "RACS"
+	},
+	{
+		"dirname": "0x450265751d11e3295734A3738A30f27a079C3420",
+		"address": "0x450265751d11e3295734A3738A30f27a079C3420",
+		"symbol": "ROU"
+	},
+	{
+		"dirname": "0x4A54D4b138996BF44E12c8cD6217e39B50F91e74",
+		"address": "0x4A54D4b138996BF44E12c8cD6217e39B50F91e74",
+		"symbol": "RBK"
+	},
+	{
+		"dirname": "0x4bBfae575Dd47BCFD5770AB4bC54Eb83DB088888",
+		"address": "0x4bBfae575Dd47BCFD5770AB4bC54Eb83DB088888",
+		"symbol": "RL"
+	},
+	{
+		"dirname": "0x5240AC630e009281b10A192EBFbc44511213dcB1",
+		"address": "0x5240AC630e009281b10A192EBFbc44511213dcB1",
+		"symbol": "RUN"
+	},
+	{
+		"dirname": "0x5fB3efa71Ca199EEC83b1FFF96D81eA67d17686d",
+		"address": "0x5fB3efa71Ca199EEC83b1FFF96D81eA67d17686d",
+		"symbol": "RMTB"
+	},
+	{
+		"dirname": "0x626cAB57051E80F4b84551856588b62983bdB94e",
+		"address": "0x626cAB57051E80F4b84551856588b62983bdB94e",
+		"symbol": "RabbitKing"
+	},
+	{
+		"dirname": "0x6386864e110E2915754dC813Ad34B55f06cE40Ae",
+		"address": "0x6386864e110E2915754dC813Ad34B55f06cE40Ae",
+		"symbol": "RRM"
+	},
+	{
+		"dirname": "0x6427B760730f2c6a62a7B8aD6274eE4964476d5C",
+		"address": "0x6427B760730f2c6a62a7B8aD6274eE4964476d5C",
+		"symbol": "RB"
+	},
+	{
+		"dirname": "0x6BE940759586A4f479086d7C606cdb6ba60Ce6B3",
+		"address": "0x6BE940759586A4f479086d7C606cdb6ba60Ce6B3",
+		"symbol": "RH31"
+	},
+	{
+		"dirname": "0x6CB585E4bc6354CD0d457b4393F0AC3EF3d48Da9",
+		"address": "0x6CB585E4bc6354CD0d457b4393F0AC3EF3d48Da9",
+		"symbol": "RabbitKing"
+	},
+	{
+		"dirname": "0x7eBF1AFE97CF14f0fa5cE38696E47E1a6D3e6666",
+		"address": "00x7eBF1AFE97CF14f0fa5cE38696E47E1a6D3e6666",
+		"symbol": "Rabbit"
+	},
+	{
+		"dirname": "0x853106cd0c1c6e7af94c03158baf3a602d8eab00",
+		"address": "0x853106cd0c1c6e7af94c03158baf3a602d8eab00",
+		"symbol": "Radar"
+	},
+	{
+		"dirname": "0x99fa3977b7D7Fbfdd9955EB36EADE852366B936D",
+		"address": "0x99fa3977b7D7Fbfdd9955EB36EADE852366B936D",
+		"symbol": "RDZ"
+	},
+	{
+		"dirname": "0x9fF6B2BcFb82C41B8D9131EA4509d8A2Bf55D702",
+		"address": "0x9fF6B2BcFb82C41B8D9131EA4509d8A2Bf55D702",
+		"symbol": "RST"
+	},
+	{
+		"dirname": "0xB1EF938970b7F1038f5c33A2CC4443EF86110483",
+		"address": "0xB1EF938970b7F1038f5c33A2CC4443EF86110483",
+		"symbol": "RAGO"
+	},
+	{
+		"dirname": "0xB5940e3168338Cb791B3B41628e17AFac991D133",
+		"address": "0xB5940e3168338Cb791B3B41628e17AFac991D133",
+		"symbol": "Rabbitking"
+	},
+	{
+		"dirname": "0xCBe26335751158a102e32Fc2DeE68eC2bd861247",
+		"address": "0xCBe26335751158a102e32Fc2DeE68eC2bd861247",
+		"symbol": "RID"
+	},
+	{
+		"dirname": "0xE177FD9a96782CbcfC3c26354EB76626AA78908A",
+		"address": "0xE177FD9a96782CbcfC3c26354EB76626AA78908A",
+		"symbol": "Rabbit"
+	},
+	{
+		"dirname": "0xFe8652a95C6e8A63fe0Af1518a79d3aE4B8108E7",
+		"address": "0xFe8652a95C6e8A63fe0Af1518a79d3aE4B8108E7",
+		"symbol": "RBFR"
+	},
+	{
+		"dirname": "0xb922AA024e71A25077D78B593Bd6f11f2F412e72",
+		"address": "0xb922AA024e71A25077D78B593Bd6f11f2F412e72",
+		"symbol": "REC"
+	},
+	{
+		"dirname": "0xd52D7A6a6B87Bc87B5CF33e3DEeAb63111275869",
+		"address": "0xd52D7A6a6B87Bc87B5CF33e3DEeAb63111275869",
+		"symbol": "RKC"
+	},
+	{
+		"dirname": "0xd8BDB39389857cf3D8f5C91e0e262f8EAb112233",
+		"address": "0xd8BDB39389857cf3D8f5C91e0e262f8EAb112233",
+		"symbol": "RATS"
+	},
+	{
+		"dirname": "0xe7ba7ca550805caf538419e5cc62c0394a666666",
+		"address": "0xE7BA7CA550805cAF538419e5cC62c0394A666666",
+		"symbol": "rats"
+	},
+	{
+		"dirname": "0xecCD8B08Ac3B587B7175D40Fb9C60a20990F8D21",
+		"address": "0xecCD8B08Ac3B587B7175D40Fb9C60a20990F8D21",
+		"symbol": "RES"
+	},
+	{
+		"dirname": "0xf789c161683e11dbac8640e5cf922827fe002023",
+		"address": "0xf789c161683e11dbac8640e5cf922827fe002023",
+		"symbol": "Rabbitking"
 	}
 ]

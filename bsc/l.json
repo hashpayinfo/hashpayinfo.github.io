@@ -528,5 +528,270 @@
 		"dirname": "0xfFeCF080207264cD6A32883c74BfbeD0E10A1096",
 		"address": "0xfFeCF080207264cD6A32883c74BfbeD0E10A1096",
 		"symbol": "LAN"
+	},
+	{
+		"dirname": "0x0196a3A38B7A56aBc40D30218EeA4190ed57a4F1",
+		"address": "0x0196a3A38B7A56aBc40D30218EeA4190ed57a4F1",
+		"symbol": "LY"
+	},
+	{
+		"dirname": "0x08AaEe41977A733D5849494a8D8b46F5A650619a",
+		"address": "0x08AaEe41977A733D5849494a8D8b46F5A650619a",
+		"symbol": "LR"
+	},
+	{
+		"dirname": "0x0d17d0bEc371DC3e6774Dc11809E525132353c15",
+		"address": "0x0d17d0bEc371DC3e6774Dc11809E525132353c15",
+		"symbol": "LMWC"
+	},
+	{
+		"dirname": "0x0d68B1C5dA5016919A5529104dcb4950759A9893",
+		"address": "0x0d68B1C5dA5016919A5529104dcb4950759A9893",
+		"symbol": "LOTTO"
+	},
+	{
+		"dirname": "0x149381dbb4036AC1fCe806e9adc0F44601698c82",
+		"address": "0x149381dbb4036AC1fCe806e9adc0F44601698c82",
+		"symbol": "LSNT"
+	},
+	{
+		"dirname": "0x14a9c53cadda4b5ca5201776e5364c914aab3f7d",
+		"address": "0x14a9c53cadda4b5ca5201776e5364c914aab3f7d",
+		"symbol": "LHGOXI"
+	},
+	{
+		"dirname": "0x1D65Cb57eFB96c674aede0c3423D41FC6fB76FE7",
+		"address": "0x1D65Cb57eFB96c674aede0c3423D41FC6fB76FE7",
+		"symbol": "LDAO"
+	},
+	{
+		"dirname": "0x214b4a5447Bcde81aD56E4999fb104595ee417E9",
+		"address": "0x214b4a5447Bcde81aD56E4999fb104595ee417E9",
+		"symbol": "LaeebKing"
+	},
+	{
+		"dirname": "0x31C3642bb8b81F7D6e53362FBac4016Ce83fa52c",
+		"address": "0x31C3642bb8b81F7D6e53362FBac4016Ce83fa52c",
+		"symbol": "LY"
+	},
+	{
+		"dirname": "0x3390A50636DC837d1099503Ed082010f8D956f80",
+		"address": "0x3390A50636DC837d1099503Ed082010f8D956f80",
+		"symbol": "LSBS"
+	},
+	{
+		"dirname": "0x3434D1b0922f6402717D4656cC428320ffAD6fA9",
+		"address": "0x3434D1b0922f6402717D4656cC428320ffAD6fA9",
+		"symbol": "LC"
+	},
+	{
+		"dirname": "0x3881bb77366A7A5de6c7917A62793a1Ea9520E19",
+		"address": "0x3881bb77366A7A5de6c7917A62793a1Ea9520E19",
+		"symbol": "LSCB"
+	},
+	{
+		"dirname": "0x3923eb797e25DCd11eC712b20110e552D6Cb1Ee3",
+		"address": "0x3923eb797e25DCd11eC712b20110e552D6Cb1Ee3",
+		"symbol": "LF(3.0)"
+	},
+	{
+		"dirname": "0x3B66457Ae9410cb07e631A8a20f49d53A567Dc29",
+		"address": "0x3B66457Ae9410cb07e631A8a20f49d53A567Dc29",
+		"symbol": "LUCKY"
+	},
+	{
+		"dirname": "0x3Ff3e9A36d49Fb2BdBaA767b502E47d6eFd12F82",
+		"address": "0x3Ff3e9A36d49Fb2BdBaA767b502E47d6eFd12F82",
+		"symbol": "LB"
+	},
+	{
+		"dirname": "0x3c3c21542f2aD66a704bF066B3B448586373F31A",
+		"address": "0x3c3c21542f2aD66a704bF066B3B448586373F31A",
+		"symbol": "LD"
+	},
+	{
+		"dirname": "0x3dD58d22F72325936eBd5c9f6F67aC74a492A2f0",
+		"address": "0x3dD58d22F72325936eBd5c9f6F67aC74a492A2f0",
+		"symbol": "loop"
+	},
+	{
+		"dirname": "0x430D4560EeF44A49D5Fc6A03Fc0707ddFFE780f8",
+		"address": "0x430D4560EeF44A49D5Fc6A03Fc0707ddFFE780f8",
+		"symbol": "LALA"
+	},
+	{
+		"dirname": "0x4aE4eDc2785260bbFb2F2c5f5da7D71ded4D6666",
+		"address": "0x4aE4eDc2785260bbFb2F2c5f5da7D71ded4D6666",
+		"symbol": "LYM"
+	},
+	{
+		"dirname": "0x551a2B36d0dAe071a67Ada4DE2025b05C845e266",
+		"address": "0x551a2B36d0dAe071a67Ada4DE2025b05C845e266",
+		"symbol": "LIB"
+	},
+	{
+		"dirname": "0x596e41fa2F351ed9eF41C99Be37722547108ccF4",
+		"address": "0x596e41fa2F351ed9eF41C99Be37722547108ccF4",
+		"symbol": "Libra"
+	},
+	{
+		"dirname": "0x5D3BDC8AC59318EAc858d5588F164E19E0764268",
+		"address": "0x5D3BDC8AC59318EAc858d5588F164E19E0764268",
+		"symbol": "LY"
+	},
+	{
+		"dirname": "0x5Dd1F77e7084aF8194628d598253e87659392023",
+		"address": "0x5Dd1F77e7084aF8194628d598253e87659392023",
+		"symbol": "lightning turtle"
+	},
+	{
+		"dirname": "0x6225139b011181f62782b05e138269b8721f255f",
+		"address": "0x6225139b011181f62782b05e138269b8721f255f",
+		"symbol": "Leader"
+	},
+	{
+		"dirname": "0x69E7cBDC033F44f2e5214e2D3B7471F54D6fCdd7",
+		"address": "0x69E7cBDC033F44f2e5214e2D3B7471F54D6fCdd7",
+		"symbol": "Lightning Tortoise"
+	},
+	{
+		"dirname": "0x69eB32984043EA38996D872c43F935A3fFA7C06d",
+		"address": "0x69eB32984043EA38996D872c43F935A3fFA7C06d",
+		"symbol": "LOTTO"
+	},
+	{
+		"dirname": "0x6E54C232b3B9807968B24ef9a2e40F49087B15Eb",
+		"address": "0x6E54C232b3B9807968B24ef9a2e40F49087B15Eb",
+		"symbol": "LONG"
+	},
+	{
+		"dirname": "0x6ff10C4FB810fa70BBd60E59007Ed786f3FC81aE",
+		"address": "0x6ff10C4FB810fa70BBd60E59007Ed786f3FC81aE",
+		"symbol": "LaEeb"
+	},
+	{
+		"dirname": "0x6ff9Ca37eF33d8D52f2a3Fd7297Ac6E88Ff5294f",
+		"address": "0x6ff9Ca37eF33d8D52f2a3Fd7297Ac6E88Ff5294f",
+		"symbol": "LF(2.0)"
+	},
+	{
+		"dirname": "0x7980D84FFCB623f492273B4FBd9289aA32Dc62d2",
+		"address": "0x7980D84FFCB623f492273B4FBd9289aA32Dc62d2",
+		"symbol": "LK"
+	},
+	{
+		"dirname": "0x7b6c7fA3c19693B16868c71326FF55772f1341ee",
+		"address": "0x7b6c7fA3c19693B16868c71326FF55772f1341ee",
+		"symbol": "LBT"
+	},
+	{
+		"dirname": "0x7d8ee5a99f130b6d9950c7799507134aad0ba0c5",
+		"address": "0x7d8ee5a99f130b6d9950c7799507134aad0ba0c5",
+		"symbol": "Laeeb"
+	},
+	{
+		"dirname": "0x8340700A33a1c76ecCfE03e180e1243f23C54328",
+		"address": "0x8340700A33a1c76ecCfE03e180e1243f23C54328",
+		"symbol": "LMST"
+	},
+	{
+		"dirname": "0x8657132C72260851D74dE180c35bE37e9af223D2",
+		"address": "0x8657132C72260851D74dE180c35bE37e9af223D2",
+		"symbol": "LYMX"
+	},
+	{
+		"dirname": "0x8d35F134B9858E88315CAF0F0aBdAAcd814865D5",
+		"address": "0x8d35F134B9858E88315CAF0F0aBdAAcd814865D5",
+		"symbol": "LLT"
+	},
+	{
+		"dirname": "0x991dD21c50BD14AA690203cE887025F3Da1F021b",
+		"address": "0x991dD21c50BD14AA690203cE887025F3Da1F021b",
+		"symbol": "LBFF"
+	},
+	{
+		"dirname": "0x9C8C624e9dfF5b840e834B3336B52A224D52578A",
+		"address": "0x9C8C624e9dfF5b840e834B3336B52A224D52578A",
+		"symbol": "La๎eeb"
+	},
+	{
+		"dirname": "0xA61DE71Dbf374ad37438F50aF0D7B53F732eE3Af",
+		"address": "0xA61DE71Dbf374ad37438F50aF0D7B53F732eE3Af",
+		"symbol": "Linea"
+	},
+	{
+		"dirname": "0xA9CBc3cA8e9aA5e8377e1066B22Fd5a8A5A3F959",
+		"address": "0xA9CBc3cA8e9aA5e8377e1066B22Fd5a8A5A3F959",
+		"symbol": "LoveBridge"
+	},
+	{
+		"dirname": "0xAd7a89E1D69004449D80383E7D3A423E8894FE63",
+		"address": "0xAd7a89E1D69004449D80383E7D3A423E8894FE63",
+		"symbol": "LBTDAO"
+	},
+	{
+		"dirname": "0xCF5B48BD28Dc1459ad575c0c83A839feF2A463bc",
+		"address": "0xCF5B48BD28Dc1459ad575c0c83A839feF2A463bc",
+		"symbol": "LILC"
+	},
+	{
+		"dirname": "0xCb1AF75AE11A64FE101d3529B91a026867B320d3",
+		"address": "0xCb1AF75AE11A64FE101d3529B91a026867B320d3",
+		"symbol": "LOL"
+	},
+	{
+		"dirname": "0xDc7a32C9Dbe4E7B05A0239A953689d8c688Fa11d",
+		"address": "0x93E6Dc506aBa6854bb2ccc2B376FC0669D9aE4ed",
+		"symbol": "LuLu"
+	},
+	{
+		"dirname": "0xE9e1A940F1C2faE9eE3eAf49B6a679DfE2Da7b48",
+		"address": "0xE9e1A940F1C2faE9eE3eAf49B6a679DfE2Da7b48",
+		"symbol": "LSBT"
+	},
+	{
+		"dirname": "0xEa8D5C4F2235f3287604458Df8131102C6C07CEb",
+		"address": "0xEa8D5C4F2235f3287604458Df8131102C6C07CEb",
+		"symbol": "LYC"
+	},
+	{
+		"dirname": "0xF8CbBf8855c89Dd4bf3483FAF131BfE6626707f4",
+		"address": "0xF8CbBf8855c89Dd4bf3483FAF131BfE6626707f4",
+		"symbol": "LC"
+	},
+	{
+		"dirname": "0xa51EaC06bBc6aC2776F9c33BB741988b30A33B18",
+		"address": "0xa51EaC06bBc6aC2776F9c33BB741988b30A33B18",
+		"symbol": "LSC"
+	},
+	{
+		"dirname": "0xc0C9Df3dFcbC0a56715770b75E8C0a5855f3B552",
+		"address": "0xc0C9Df3dFcbC0a56715770b75E8C0a5855f3B552",
+		"symbol": "LuckyRabbit"
+	},
+	{
+		"dirname": "0xc4920817b7dDD33223645B46Ebc6Ff2c69B367d3",
+		"address": "0xc4920817b7dDD33223645B46Ebc6Ff2c69B367d3",
+		"symbol": "LINK"
+	},
+	{
+		"dirname": "0xc4Aa49b2885DaB48D7e111424ACEb35dcDCE8fcc",
+		"address": "0xc4Aa49b2885DaB48D7e111424ACEb35dcDCE8fcc",
+		"symbol": "LK"
+	},
+	{
+		"dirname": "0xe1E3C76af115Fb6aeaEE39315a741F43d6451774",
+		"address": "0xe1E3C76af115Fb6aeaEE39315a741F43d6451774",
+		"symbol": "Lusail"
+	},
+	{
+		"dirname": "0xe9feFC995Dbb33Dd46FfC9c8D9A4E1566CdD0Bea",
+		"address": "0xe9feFC995Dbb33Dd46FfC9c8D9A4E1566CdD0Bea",
+		"symbol": "LUWA"
+	},
+	{
+		"dirname": "0xf85d2ebDd12D470aCfe385Fa68f38577bfA2Ec70",
+		"address": "0xf85d2ebDd12D470aCfe385Fa68f38577bfA2Ec70",
+		"symbol": "LY"
 	}
 ]
