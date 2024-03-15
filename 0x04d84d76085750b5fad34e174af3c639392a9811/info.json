@@ -1,0 +1,11 @@
+{
+ "name": "HAHA TOKEN",
+ "website": "https://HAHA.org/",
+ "description": "HAHA is AI doge",
+"explorer":"https://www.hecoinfo.com/enus/address/0x04d84d76085750b5fad34e174af3c639392a9811",
+ "type": "HRC-20",
+ "symbol": "HAHA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04d84d76085750b5fad34e174af3c639392a9811"
+}
